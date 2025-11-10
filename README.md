@@ -28,5 +28,5 @@ To maintain a clean public profile and manage development, the complete source c
 
 **Thank you for visiting! Please feel free to connect with me:**
 
-* **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* **GitHub:** [github.com/your-username](https://github.com/your-username)
+* **LinkedIn:** [linkedin.com/in/aniqaqil](https://www.linkedin.com/in/aniqaqil/)
+* **GitHub:** [github.com/niqaqil](https://github.com/niqaqil)
